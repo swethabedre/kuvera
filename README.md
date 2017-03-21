@@ -1,6 +1,6 @@
 # kuvera
 
-Link to respository is 
+Link to respository is https://github.com/swethabedre/kuvera/tree/master
 
 Thought Process
 
